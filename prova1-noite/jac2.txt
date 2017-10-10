@@ -1,0 +1,10 @@
+instrucoes.txt
+jac1.txt
+jac2.txt
+jac3.txt
+jacqueline28
+log
+pasta1
+pasta2
+pasta3
+prova1-jacqueline.txt
